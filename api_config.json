@@ -1,0 +1,7 @@
+{
+  "modelscope": {
+    "base_url": "https://api-inference.modelscope.cn/v1",
+    "api_key": "ms-f40ec6d1-06aa-4298-a9eb-c6dd6a4ad155",
+    "model": "deepseek-ai/DeepSeek-V3.1"
+  }
+}
